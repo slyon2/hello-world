@@ -1,4 +1,4 @@
 # hello-world
 First repo
 
-I like to :bike and :run.
+I like to 🚲 and 🏃.
